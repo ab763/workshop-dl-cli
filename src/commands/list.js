@@ -1,36 +1,39 @@
-const { Command } = require("@oclif/command");
-const Table = require("cli-table");
-const moment = require("moment");
-const getManager = require("../helperFunctions/manager/getManager");
+const {Command} = require('@oclif/core');
+const Table = require('cli-table');
+const moment = require('moment');
+const getManager = require('../helperFunctions/manager/getManager');
 
-class ListCommand extends Command {
-  async run() {
-    const manager = await getManager();
-    const table = new Table({
-      head: ["#", "ID", "Title", "Last Updated"],
-      colWidths: [10, 15, 50, 25],
-    });
+class ListCommand extends Command
+{
+	async run()
+	{
+		const manager = await getManager();
+		const table = new Table({
+			head: ['#', 'ID', 'Title', 'Last Updated'],
+			colWidths: [10, 15, 50, 25],
+		});
 
-    const list = Object.values(manager.get("installed"));
+		const list = Object.values(manager.get('installed'));
 
-    if (!list.length) {
-      console.log("No mods installed yet");
-      return;
-    }
+		if (list.length === 0)
+		{
+			console.log('No mods installed yet');
+			return;
+		}
 
-    list.map((item, i) =>
-      table.push([
-        i + 1,
-        item.id,
-        item.title,
-        moment(item.updated).format("lll"),
-      ])
-    );
+		list.map((item, i) =>
+			table.push([
+				i + 1,
+				item.id,
+				item.title,
+				moment(item.updated).format('lll'),
+			]),
+		);
 
-    console.log(table.toString());
-  }
+		console.log(table.toString());
+	}
 }
 
-ListCommand.description = `List all the installed mods`;
+ListCommand.description = 'List all the installed mods';
 
 module.exports = ListCommand;

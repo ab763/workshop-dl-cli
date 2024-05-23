@@ -1,0 +1,1368 @@
+{
+	"616359783": {
+		"title": "Free Camera Rotation",
+		"categories": [
+			"( view )"
+		],
+		"author": "wasteland_ghost",
+		"filesize": "368.128 KB",
+		"posted": "2016-02-05T09:40:00.000Z",
+		"updated": "2016-05-13T11:48:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [],
+		"id": "616359783"
+	},
+	"648410303": {
+		"title": "Blackmarket Usage",
+		"categories": [
+			"( view )"
+		],
+		"author": "BlueRaja",
+		"filesize": "395.382 KB",
+		"posted": "2016-03-19T17:44:00.000Z",
+		"updated": "2017-02-04T08:44:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [],
+		"id": "648410303"
+	},
+	"667104300": {
+		"title": "[WotC] Mod Config Menu",
+		"categories": [
+			"( view )"
+		],
+		"author": "guby",
+		"filesize": "7.033 MB",
+		"posted": "2016-04-16T23:22:00.000Z",
+		"updated": "2020-05-20T00:17:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=667104300&l=english"
+			}
+		],
+		"id": "667104300"
+	},
+	"934236622": {
+		"title": "Yet Another F1",
+		"categories": [
+			"UI"
+		],
+		"author": "robojumper",
+		"filesize": "472.093 KB",
+		"posted": "2017-05-27T21:25:00.000Z",
+		"updated": "2018-10-24T17:51:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [],
+		"id": "934236622"
+	},
+	"957580056": {
+		"title": "Smooth Scrolling",
+		"categories": [
+			"UI"
+		],
+		"author": "robojumper",
+		"filesize": "782.533 KB",
+		"posted": "2017-06-27T21:03:00.000Z",
+		"updated": "2017-07-18T14:02:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [],
+		"id": "957580056"
+	},
+	"1122974240": {
+		"title": "WotC: robojumper's Squad Select",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "robojumper",
+		"filesize": "905.774 KB",
+		"posted": "2017-08-29T12:27:00.000Z",
+		"updated": "2021-11-25T21:08:00.000Z",
+		"requirements": [
+			"667104300"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1122974240&l=english"
+			}
+		],
+		"id": "1122974240"
+	},
+	"1123037187": {
+		"title": "[WotC] Revival Protocol Fixes",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "RealityMachina",
+		"filesize": "65.461 KB",
+		"posted": "2017-08-29T14:02:00.000Z",
+		"updated": "2023-08-06T14:18:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1123037187&l=english"
+			}
+		],
+		"id": "1123037187"
+	},
+	"1123174832": {
+		"title": "[WOTC] Show Health Values",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "-bg-",
+		"filesize": "159.009 KB",
+		"posted": "2017-08-29T17:05:00.000Z",
+		"updated": "2018-08-26T21:27:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1123174832&l=english"
+			}
+		],
+		"id": "1123174832"
+	},
+	"1124175584": {
+		"title": "WotC: Color Coded Bonds",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "robojumper",
+		"filesize": "859.548 KB",
+		"posted": "2017-08-30T21:43:00.000Z",
+		"updated": "2017-08-30T22:45:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1124175584&l=english"
+			}
+		],
+		"id": "1124175584"
+	},
+	"1124288875": {
+		"title": "[WotC] Gotcha Again",
+		"categories": [
+			"( view )"
+		],
+		"author": "Chaser324",
+		"filesize": "5.781 MB",
+		"posted": "2017-08-31T01:19:00.000Z",
+		"updated": "2017-09-04T02:58:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1124288875&l=english"
+			}
+		],
+		"id": "1124288875"
+	},
+	"1124794449": {
+		"title": "[WOTC] Cinematic Rapid Fire (and other abilities)",
+		"categories": [
+			" gameplay"
+		],
+		"author": "Mr. Nice",
+		"filesize": "562.746 KB",
+		"posted": "2017-08-31T18:06:00.000Z",
+		"updated": "2019-08-19T23:33:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1124794449&l=english"
+			}
+		],
+		"id": "1124794449"
+	},
+	"1125698656": {
+		"title": "Upcoming Events [WotC]",
+		"categories": [
+			"( view )"
+		],
+		"author": "Rilne",
+		"filesize": "97.272 KB",
+		"posted": "2017-09-01T20:24:00.000Z",
+		"updated": "2017-09-02T04:29:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1125698656&l=english"
+			}
+		],
+		"id": "1125698656"
+	},
+	"1125973633": {
+		"title": "[WOTC] Hours Instead of Days",
+		"categories": [
+			" ui"
+		],
+		"author": "-bg-",
+		"filesize": "155.965 KB",
+		"posted": "2017-09-02T05:05:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1125973633&l=english"
+			}
+		],
+		"updated": "2017-09-02T05:05:00.000Z",
+		"id": "1125973633"
+	},
+	"1126395106": {
+		"title": "Evac All - WotC",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "tracktwo",
+		"filesize": "613.278 KB",
+		"posted": "2017-09-02T17:06:00.000Z",
+		"updated": "2022-04-02T14:03:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1126395106&l=english"
+			}
+		],
+		"id": "1126395106"
+	},
+	"1126771111": {
+		"title": "Chosen Dark Events Fix",
+		"categories": [
+			" bugfix"
+		],
+		"author": "RealityMachina",
+		"filesize": "38.491 KB",
+		"posted": "2017-09-03T02:02:00.000Z",
+		"updated": "2017-09-03T02:18:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1126771111&l=english"
+			}
+		],
+		"id": "1126771111"
+	},
+	"1129878719": {
+		"title": "[WOTC] Ability Interaction Fixes",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Mr. Nice",
+		"filesize": "407.897 KB",
+		"posted": "2017-09-07T14:04:00.000Z",
+		"updated": "2020-01-30T13:17:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1129878719&l=english"
+			}
+		],
+		"id": "1129878719"
+	},
+	"1133368143": {
+		"title": "Overwatch All/Others WotC",
+		"categories": [
+			"( view )"
+		],
+		"author": "Gen. Libbity Bibbity",
+		"filesize": "292.668 KB",
+		"posted": "2017-09-11T22:15:00.000Z",
+		"updated": "2017-09-11T22:30:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133368143&l=english"
+			}
+		],
+		"id": "1133368143"
+	},
+	"1134256495": {
+		"title": "X2WOTCCommunityHighlander v1.26.3",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Maluco Marinero",
+		"filesize": "21.722 MB",
+		"posted": "2017-09-13T12:25:00.000Z",
+		"updated": "2023-09-17T19:34:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1134256495&l=english"
+			}
+		],
+		"id": "1134256495"
+	},
+	"1134537412": {
+		"title": "WotC: \"Increase Combat Intelligence\" for everyone",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "robojumper",
+		"filesize": "78.778 KB",
+		"posted": "2017-09-13T20:03:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1134537412&l=english"
+			}
+		],
+		"updated": "2017-09-13T20:03:00.000Z",
+		"id": "1134537412"
+	},
+	"1138494689": {
+		"title": "Clean Camera Angles Fix",
+		"categories": [
+			"( view )"
+		],
+		"author": "Postmaster",
+		"filesize": "140.291 KB",
+		"posted": "2017-09-19T00:26:00.000Z",
+		"updated": "2017-09-19T00:47:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [],
+		"id": "1138494689"
+	},
+	"1149340683": {
+		"title": "Turrets Are Cover [WOTC]",
+		"categories": [
+			"( view )"
+		],
+		"author": "thegrimsqueaker72",
+		"filesize": "161.655 KB",
+		"posted": "2017-09-27T22:50:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1149340683&l=english"
+			}
+		],
+		"updated": "2017-09-27T22:50:00.000Z",
+		"id": "1149340683"
+	},
+	"1149730999": {
+		"title": "[WOTC] Reliable Wounds",
+		"categories": [
+			" gameplay"
+		],
+		"author": "Kittah Khan",
+		"filesize": "198.320 KB",
+		"posted": "2017-09-28T11:45:00.000Z",
+		"updated": "2020-06-11T23:16:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1149730999&l=english"
+			}
+		],
+		"id": "1149730999"
+	},
+	"1154827808": {
+		"title": "WOTC Nice Mission Debriefing",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "atamize",
+		"filesize": "614.218 KB",
+		"posted": "2017-10-01T22:37:00.000Z",
+		"updated": "2020-08-02T15:56:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1154827808&l=english"
+			}
+		],
+		"id": "1154827808"
+	},
+	"1162274976": {
+		"title": "Remove Weapon Upgrades",
+		"categories": [
+			"Gameplay"
+		],
+		"author": "-bg-",
+		"filesize": "81.601 KB",
+		"posted": "2017-10-08T11:52:00.000Z",
+		"updated": "2019-10-06T20:56:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1162274976&l=english"
+			}
+		],
+		"id": "1162274976"
+	},
+	"1176368634": {
+		"title": "Avenger Defense Bondmates Fix",
+		"categories": [
+			"( view )"
+		],
+		"author": "thegrimsqueaker72",
+		"filesize": "172.141 KB",
+		"posted": "2017-10-21T17:05:00.000Z",
+		"updated": "2017-10-23T01:51:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1176368634&l=english"
+			}
+		],
+		"id": "1176368634"
+	},
+	"1183444470": {
+		"title": "WOTC - Extended Information!",
+		"categories": [
+			"( view )"
+		],
+		"author": "Mr. Nice",
+		"filesize": "1.916 MB",
+		"posted": "2017-10-28T15:39:00.000Z",
+		"updated": "2018-01-07T21:54:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1183444470&l=english"
+			}
+		],
+		"id": "1183444470"
+	},
+	"1183583781": {
+		"title": "WOTC Show Enemies and Terrain on Mission Planning",
+		"categories": [
+			"( view )"
+		],
+		"author": "sebkulu",
+		"filesize": "1.566 MB",
+		"posted": "2017-10-28T17:26:00.000Z",
+		"updated": "2018-01-22T22:59:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1183583781&l=english"
+			}
+		],
+		"id": "1183583781"
+	},
+	"1273848330": {
+		"title": "WOTC - Configurable Headshots",
+		"categories": [
+			" ui"
+		],
+		"author": "LeaderEnemyBoss",
+		"filesize": "10.455 MB",
+		"posted": "2018-01-18T22:55:00.000Z",
+		"updated": "2018-02-22T02:49:00.000Z",
+		"requirements": [
+			"667104300"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1273848330&l=english"
+			}
+		],
+		"id": "1273848330"
+	},
+	"1276342555": {
+		"title": "[WOTC] Less Overwatch Lock Ups!",
+		"categories": [
+			" gameplay"
+		],
+		"author": "Mr. Nice",
+		"filesize": "377.028 KB",
+		"posted": "2018-01-21T01:07:00.000Z",
+		"updated": "2018-08-07T13:13:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1276342555&l=english"
+			}
+		],
+		"id": "1276342555"
+	},
+	"1281427768": {
+		"title": "(WOTC) UI Mod for Defense/Mobility/Psi",
+		"categories": [
+			"UI"
+		],
+		"author": "PZ",
+		"filesize": "128.977 KB",
+		"posted": "2018-01-26T00:44:00.000Z",
+		"updated": "2018-11-21T23:02:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1281427768&l=english"
+			}
+		],
+		"id": "1281427768"
+	},
+	"1289686596": {
+		"title": "[WOTC] Cost-Based Ability Colors",
+		"categories": [
+			"UI"
+		],
+		"author": "shiremct",
+		"filesize": "180.857 KB",
+		"posted": "2018-02-03T02:09:00.000Z",
+		"updated": "2022-09-19T08:10:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1289686596&l=english"
+			}
+		],
+		"id": "1289686596"
+	},
+	"1290331416": {
+		"title": "Post Process Status Effects",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "robojumper",
+		"filesize": "185.786 KB",
+		"posted": "2018-02-03T16:32:00.000Z",
+		"updated": "2021-07-20T16:50:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1290331416&l=english"
+			}
+		],
+		"id": "1290331416"
+	},
+	"1306820727": {
+		"title": "Evac Now",
+		"categories": [
+			"( view )"
+		],
+		"author": "michiakig",
+		"filesize": "254.105 KB",
+		"posted": "2018-02-19T15:15:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [],
+		"updated": "2018-02-19T15:15:00.000Z",
+		"id": "1306820727"
+	},
+	"1319707742": {
+		"title": "[WOTC] Surgical SitRep Fix",
+		"categories": [
+			" gameplay"
+		],
+		"author": "LeaderEnemyBoss",
+		"filesize": "476.952 KB",
+		"posted": "2018-03-04T00:36:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1319707742&l=english"
+			}
+		],
+		"updated": "2018-03-04T00:36:00.000Z",
+		"id": "1319707742"
+	},
+	"1351708150": {
+		"title": "[WOTC] End of Mission Quotes Fix",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "User 190",
+		"filesize": "93.564 KB",
+		"posted": "2018-04-03T23:32:00.000Z",
+		"updated": "2018-04-10T12:03:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1351708150&l=english"
+			}
+		],
+		"id": "1351708150"
+	},
+	"1371195713": {
+		"title": "[WOTC] Purifier Grenades Fix",
+		"categories": [
+			" gameplay"
+		],
+		"author": "Hotl3looded",
+		"filesize": "62.745 KB",
+		"posted": "2018-04-27T03:34:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1371195713&l=english"
+			}
+		],
+		"updated": "2018-04-27T03:34:00.000Z",
+		"id": "1371195713"
+	},
+	"1373960922": {
+		"title": "Spectre Vanish Fix",
+		"categories": [
+			"fix"
+		],
+		"author": "dotvhs",
+		"filesize": "190.148 KB",
+		"posted": "2018-04-30T03:03:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1373960922&l=english"
+			}
+		],
+		"updated": "2018-04-30T03:03:00.000Z",
+		"id": "1373960922"
+	},
+	"1379047477": {
+		"title": "More Effective Blast Padding",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "RealityMachina",
+		"filesize": "47.353 KB",
+		"posted": "2018-05-06T01:08:00.000Z",
+		"updated": "2019-05-11T18:29:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1379047477&l=english"
+			}
+		],
+		"id": "1379047477"
+	},
+	"1384631824": {
+		"title": "[WOTC] New Target Icons",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "dotvhs",
+		"filesize": "471.400 KB",
+		"posted": "2018-05-13T00:31:00.000Z",
+		"updated": "2018-05-26T21:49:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1384631824&l=english"
+			}
+		],
+		"id": "1384631824"
+	},
+	"1437605946": {
+		"title": "Tower Detection Fix [WOTC]",
+		"categories": [
+			"( view )"
+		],
+		"author": "thegrimsqueaker72",
+		"filesize": "95.548 KB",
+		"posted": "2018-07-10T20:35:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1437605946&l=english"
+			}
+		],
+		"updated": "2018-07-10T20:35:00.000Z",
+		"id": "1437605946"
+	},
+	"1440747908": {
+		"title": "[WOTC] SPARK Repair Fix",
+		"categories": [
+			" gameplay"
+		],
+		"author": "Udaya",
+		"filesize": "36.961 KB",
+		"posted": "2018-07-14T12:46:00.000Z",
+		"updated": "2018-11-07T23:24:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: Shen's Last Gift",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1440747908&l=english"
+			},
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1440747908&l=english"
+			}
+		],
+		"id": "1440747908"
+	},
+	"1473750434": {
+		"title": "[WOTC] Sell Heavy Weapons",
+		"categories": [
+			" item"
+		],
+		"author": "Udaya",
+		"filesize": "53.655 KB",
+		"posted": "2018-08-10T20:17:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1473750434&l=english"
+			}
+		],
+		"updated": "2018-08-10T20:17:00.000Z",
+		"id": "1473750434"
+	},
+	"1486607466": {
+		"title": "[WotC] Better Grappling!",
+		"categories": [
+			" gameplay"
+		],
+		"author": "Mr. Nice",
+		"filesize": "129.005 KB",
+		"posted": "2018-08-20T11:39:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1486607466&l=english"
+			}
+		],
+		"updated": "2018-08-20T11:39:00.000Z",
+		"id": "1486607466"
+	},
+	"1489268865": {
+		"title": "[WOTC] More Psionic Units",
+		"categories": [
+			" gameplay"
+		],
+		"author": "Udaya",
+		"filesize": "33.275 KB",
+		"posted": "2018-08-22T19:23:00.000Z",
+		"updated": "2021-04-06T04:33:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1489268865&l=english"
+			}
+		],
+		"id": "1489268865"
+	},
+	"1489472552": {
+		"title": "[WOTC] Better Armory Item Stats",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Mr. Nice",
+		"filesize": "257.945 KB",
+		"posted": "2018-08-22T23:14:00.000Z",
+		"updated": "2019-01-03T16:46:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1489472552&l=english"
+			}
+		],
+		"id": "1489472552"
+	},
+	"1504056921": {
+		"title": "[WOTC] One squad on new Avenger defense",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Astral Descend",
+		"filesize": "38.540 KB",
+		"posted": "2018-09-05T14:37:00.000Z",
+		"updated": "2019-02-12T18:18:00.000Z",
+		"requirements": [
+			"1122974240"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1504056921&l=english"
+			}
+		],
+		"id": "1504056921"
+	},
+	"1716973380": {
+		"title": "[WOTC] Stats on New Promotion Screen",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Astral Descend",
+		"filesize": "96.839 KB",
+		"posted": "2019-04-19T14:12:00.000Z",
+		"updated": "2019-05-28T06:22:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1716973380&l=english"
+			}
+		],
+		"id": "1716973380"
+	},
+	"1737532501": {
+		"title": "[WotC] Weapon Fixes",
+		"categories": [
+			" gameplay"
+		],
+		"author": "Mr. Nice",
+		"filesize": "604.911 KB",
+		"posted": "2019-05-10T18:53:00.000Z",
+		"updated": "2020-01-19T18:25:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1737532501&l=english"
+			}
+		],
+		"id": "1737532501"
+	},
+	"1854232612": {
+		"title": "(WOTC) Domination Icon",
+		"categories": [
+			"UI"
+		],
+		"author": "PZ",
+		"filesize": "226.016 KB",
+		"posted": "2019-09-04T23:57:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1854232612&l=english"
+			}
+		],
+		"updated": "2019-09-04T23:57:00.000Z",
+		"id": "1854232612"
+	},
+	"1862336674": {
+		"title": "(WOTC) Revival Protocol Charges Fix",
+		"categories": [
+			"bugfix"
+		],
+		"author": "PZ",
+		"filesize": "127.813 KB",
+		"posted": "2019-09-13T23:37:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1862336674&l=english"
+			}
+		],
+		"updated": "2019-09-13T23:37:00.000Z",
+		"id": "1862336674"
+	},
+	"2043070900": {
+		"title": "[WOTC] Loot Post Mover",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Kexx",
+		"filesize": "1.349 MB",
+		"posted": "2020-04-01T03:56:00.000Z",
+		"updated": "2024-02-14T14:27:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2043070900&l=english"
+			}
+		],
+		"id": "2043070900"
+	},
+	"2067720616": {
+		"title": "Improved Rocket Targeting",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "RealityMachina",
+		"filesize": "78.605 KB",
+		"posted": "2020-04-20T04:00:00.000Z",
+		"updated": "2020-04-23T07:52:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2067720616&l=english"
+			}
+		],
+		"id": "2067720616"
+	},
+	"2071833199": {
+		"title": "[WOTC] Reliable Ever Vigilant",
+		"categories": [
+			"( view )"
+		],
+		"author": "Veehementia",
+		"filesize": "145.416 KB",
+		"posted": "2020-04-23T22:41:00.000Z",
+		"updated": "2020-08-12T18:57:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [],
+		"id": "2071833199"
+	},
+	"2098062078": {
+		"title": "[WotC] No Drop Down Lists With Controller Support",
+		"categories": [
+			"( view )"
+		],
+		"author": "kdm2k6",
+		"filesize": "263.223 KB",
+		"posted": "2020-05-16T05:13:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2098062078&l=english"
+			}
+		],
+		"updated": "2020-05-16T05:13:00.000Z",
+		"id": "2098062078"
+	},
+	"2166295671": {
+		"title": "[WOTC] Core Collection Meta Mod",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Iridar",
+		"filesize": "698.687 KB",
+		"posted": "2020-07-14T21:14:00.000Z",
+		"updated": "2023-12-10T00:16:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2166295671&l=english"
+			}
+		],
+		"id": "2166295671"
+	},
+	"2167235854": {
+		"title": "[WOTC] Show All Class Counts",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Iridar",
+		"filesize": "190.388 KB",
+		"posted": "2020-07-15T19:09:00.000Z",
+		"updated": "2023-07-02T05:03:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2167235854&l=english"
+			}
+		],
+		"id": "2167235854"
+	},
+	"2170324254": {
+		"title": "[WOTC] Passive Icons Core Collection Edition",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "RustyDios",
+		"filesize": "283.294 KB",
+		"posted": "2020-07-18T17:03:00.000Z",
+		"updated": "2020-12-15T15:57:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2170324254&l=english"
+			}
+		],
+		"id": "2170324254"
+	},
+	"2235945732": {
+		"title": "[WOTC] R.A.G.E. Armor Tech Fix",
+		"categories": [
+			" gameplay"
+		],
+		"author": "Hotl3looded",
+		"filesize": "128.849 KB",
+		"posted": "2020-09-22T13:30:00.000Z",
+		"updated": "2020-09-22T17:32:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: Alien Hunters",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2235945732&l=english"
+			},
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2235945732&l=english"
+			}
+		],
+		"id": "2235945732"
+	},
+	"2276175904": {
+		"title": "[WOTC] Standardised Resources Bar",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "RustyDios",
+		"filesize": "312.126 KB",
+		"posted": "2020-11-03T12:54:00.000Z",
+		"updated": "2023-05-25T03:55:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2276175904&l=english"
+			}
+		],
+		"id": "2276175904"
+	},
+	"2365326252": {
+		"title": "[WotC] Scanning Protocol Fix",
+		"categories": [
+			"( view )"
+		],
+		"author": "Lago",
+		"filesize": "128.406 KB",
+		"posted": "2021-01-17T19:18:00.000Z",
+		"updated": "2023-05-13T12:22:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [],
+		"id": "2365326252"
+	},
+	"2392049232": {
+		"title": "SQUID BE GONE!",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Musashi",
+		"filesize": "98.830 KB",
+		"posted": "2021-02-11T23:18:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2392049232&l=english"
+			}
+		],
+		"updated": "2021-02-11T23:18:00.000Z",
+		"id": "2392049232"
+	},
+	"2425682362": {
+		"title": "[WOTC] Coloured PCS Icons",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "RustyDios",
+		"filesize": "1.690 MB",
+		"posted": "2021-03-15T14:57:00.000Z",
+		"updated": "2023-06-10T15:45:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425682362&l=english"
+			}
+		],
+		"id": "2425682362"
+	},
+	"2550561145": {
+		"title": "[WOTC] Community Promotion Screen",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "x2communitycore",
+		"filesize": "922.755 KB",
+		"posted": "2021-07-18T11:52:00.000Z",
+		"updated": "2023-12-17T20:43:00.000Z",
+		"requirements": [
+			"1134256495",
+			"667104300"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2550561145&l=english"
+			}
+		],
+		"id": "2550561145"
+	},
+	"2567229533": {
+		"title": "[WOTC] Accurate Situation Report",
+		"categories": [
+			"( view )"
+		],
+		"author": "Astral Descend",
+		"filesize": "467.747 KB",
+		"posted": "2021-08-06T05:16:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2567229533&l=english"
+			}
+		],
+		"updated": "2021-08-06T05:16:00.000Z",
+		"id": "2567229533"
+	},
+	"2709644312": {
+		"title": "[WOTC] Lost Lure Status Icon",
+		"categories": [
+			"UI"
+		],
+		"author": "FearTheBunnies",
+		"filesize": "125.646 KB",
+		"posted": "2022-01-06T05:50:00.000Z",
+		"updated": "2022-01-06T23:47:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2709644312&l=english"
+			}
+		],
+		"id": "2709644312"
+	},
+	"2724738740": {
+		"title": "[WOTC] Fixed Sniper Hotkeys",
+		"categories": [
+			"( view )"
+		],
+		"author": "Veehementia",
+		"filesize": "68.592 KB",
+		"posted": "2022-01-19T15:11:00.000Z",
+		"updated": "2022-01-19T19:00:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2724738740&l=english"
+			}
+		],
+		"id": "2724738740"
+	},
+	"2729803041": {
+		"title": "Quieter Warlock Skills",
+		"categories": [
+			" war of the chosen"
+		],
+		"author": "Mitzruti",
+		"filesize": "2.039 MB",
+		"posted": "2022-01-24T00:13:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [],
+		"updated": "2022-01-24T00:13:00.000Z",
+		"id": "2729803041"
+	},
+	"2743416893": {
+		"title": "[WOTC] Spectral Zombie Warning Signs",
+		"categories": [
+			"UI"
+		],
+		"author": "FearTheBunnies",
+		"filesize": "274.755 KB",
+		"posted": "2022-02-05T09:10:00.000Z",
+		"updated": "2022-02-05T09:31:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [],
+		"id": "2743416893"
+	},
+	"2752150336": {
+		"title": "[WOTC] No Drop Down Lists: Remove Traits",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "RustyDios",
+		"filesize": "289.909 KB",
+		"posted": "2022-02-13T08:02:00.000Z",
+		"requirements": [
+			"1134256495",
+			"2098062078"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2752150336&l=english"
+			}
+		],
+		"updated": "2022-02-13T08:02:00.000Z",
+		"id": "2752150336"
+	},
+	"2832773856": {
+		"title": "[WOTC] Detailed Soldier Lists Redux",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "RustyDios",
+		"filesize": "1.442 MB",
+		"posted": "2022-07-09T14:52:00.000Z",
+		"updated": "2024-02-17T02:59:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2832773856&l=english"
+			}
+		],
+		"id": "2832773856"
+	},
+	"2847584316": {
+		"title": "[WOTC] Mission Launch Auto Save",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Iridar",
+		"filesize": "679.772 KB",
+		"posted": "2022-08-11T13:54:00.000Z",
+		"updated": "2023-07-22T12:05:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2847584316&l=english"
+			}
+		],
+		"id": "2847584316"
+	},
+	"2847640303": {
+		"title": "Visibility Condition Bandaid For Rapid Fire And Friends",
+		"categories": [
+			" war of the chosen"
+		],
+		"author": "Mitzruti",
+		"filesize": "76.599 KB",
+		"posted": "2022-08-11T16:39:00.000Z",
+		"updated": "2022-08-13T20:09:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2847640303&l=english"
+			}
+		],
+		"id": "2847640303"
+	},
+	"2849922249": {
+		"title": "[WOTC] Visible Utility Items by Iridar",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Iridar",
+		"filesize": "768.700 KB",
+		"posted": "2022-08-16T17:27:00.000Z",
+		"updated": "2022-08-16T21:34:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2849922249&l=english"
+			}
+		],
+		"id": "2849922249"
+	},
+	"2965980985": {
+		"title": "[WOTC] Extended Personnel Info Redux",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Astral Descend",
+		"filesize": "816.944 KB",
+		"posted": "2023-04-23T01:54:00.000Z",
+		"updated": "2024-02-08T13:13:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2965980985&l=english"
+			}
+		],
+		"id": "2965980985"
+	},
+	"2989400002": {
+		"title": "[WOTC] Show Current PCS",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "RustyDios",
+		"filesize": "331.707 KB",
+		"posted": "2023-06-15T00:33:00.000Z",
+		"updated": "2023-10-21T14:42:00.000Z",
+		"requirements": [
+			"1134256495"
+		],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2989400002&l=english"
+			}
+		],
+		"id": "2989400002"
+	},
+	"3129305174": {
+		"title": "[WOTC] Item Stats in Engineering",
+		"categories": [
+			"War of the Chosen"
+		],
+		"author": "Iridar",
+		"filesize": "1.158 MB",
+		"posted": "2024-01-02T11:00:00.000Z",
+		"updated": "2024-01-04T05:05:00.000Z",
+		"requirements": [],
+		"dlcRequirements": [
+			{
+				"name": "XCOM 2: War of the Chosen",
+				"link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3129305174&l=english"
+			}
+		],
+		"id": "3129305174"
+	}
+}

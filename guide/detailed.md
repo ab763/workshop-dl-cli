@@ -21,7 +21,7 @@ There are a few things you should keep in mind:
   * [Install](#install)
     * [Install single item](#install-single-item)
     * [Install collection](#install-collection)
-    * [Change install method](#change-install-method)
+    * [Change download source](#change-install-source)
   * [Uninstall](#uninstall)
     * [Uninstall a single item](#uninstall-a-single-item)
     * [Uninstall multiple items](#uninstall-multiple-items)
@@ -276,28 +276,28 @@ This `+`, `-`, scheme is followed no matter which options you chose from
 
 but the appearance of selected items is different in both of them. In `select to keep` the selected items turn green to show that they'll be installed. Whereas in `select to ignore` the selected items turn red to show that they won't be installed.
 
-#### Change install method
+#### Change download source
 
 `csmm-cli` uses steam workshop to download mods by default, these are usually up-to-date and have almost all of the mods available to install.
 
 If you wish to change this default behaviour due to some reason, you can use SMODS for the source of the mods.
 
-Just use the `-m` or `--method` flag with `SMODS` in the install command. Example:
+Just use the `-s` or `--source` flag with `SMODS` in the install command. Example:
 
 ```bash
-csmm install 1625704117 -m SMODS
+csmm install 1625704117 -s SMODS
 ```
 
 where `1625704117` is the id of `Roundabout Builder` taken as an example, replace this with mod id you wish to install.
 
-**Note:** This is not a permanent change, you'll have to use `-m SMODS` everytime you wish to install using SMODS.
+**Note:** This is not a permanent change, you'll have to use `-s SMODS` everytime you wish to install using SMODS.
 
-More about the -m flag:
+More about the -s flag:
 
-The `-m` or `--method` flag allows you to specify the source from where to download the item. This flag can have either `SMODS` or `STEAM` as it's value. It's set to `STEAM` as default, therefore
+The `-s` or `--source` flag allows you to specify the source from where to download the item. This flag can have either `SMODS` or `SWD` as it's value. It's set to `SWD` as default, therefore
 
 ```bash
-csmm install 1625704117 -m STEAM
+csmm install 1625704117 -s SWD
 ```
 
 is exaclty same as
@@ -306,9 +306,9 @@ is exaclty same as
 csmm install 1625704117
 ```
 
-So, you don't have to put `-m STEAM` every time you install something.
+So, you don't have to put `-s SWD` every time you install something.
 
-Installing mods from `STEAM` or `SMODS` have no difference in their working and will not duplicate in case you install them using both methods. Install command always replaces the mod if previously installed.
+Installing mods from `SWD` or `SMODS` have no difference in their working and will not duplicate in case you install them using both sources. Install command always replaces the mod if previously installed.
 
 #### Error logging in Install Command
 

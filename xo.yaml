@@ -1,0 +1,49 @@
+---
+# yaml-language-server: $schema=https://json.schemastore.org/eslintrc
+ignorePatterns: ['**/*.d.ts']
+
+rules:
+  'brace-style':
+    - error
+    - allman
+
+  'quotes':
+    - error
+    - single
+    - avoidEscape: true
+
+  unicorn/prefer-query-selector: 'off'
+
+  unicorn/no-array-for-each: 'off'
+
+overrides:
+  - files:
+      - '**/*.ts'
+      - '**/*.mts'
+      - '**/*.cts'
+      - '**/*.tsx'
+    env:
+      es2022: true
+
+    rules:
+      'brace-style': 'off'
+      '@typescript-eslint/brace-style':
+        - error
+        - allman
+
+      'quotes': 'off'
+      '@typescript-eslint/quotes':
+        - error
+        - single
+        - avoidEscape: true
+
+      '@typescript-eslint/no-implicit-any-catch': 'off'
+
+  - files:
+      - '**/*.js'
+
+    rules:
+      eol-last: off
+
+      spaced-comment:
+        - off

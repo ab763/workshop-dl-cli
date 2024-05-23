@@ -1,0 +1,20 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"composite": true,
+		"esModuleInterop": true,
+		"module": "Node16",
+		"moduleResolution": "node16",
+		"outDir": "dist",
+		"rootDir": "src",
+		"sourceMap": true,
+		"target": "ESNext",
+	},
+	"include": [
+		"./src/**/*"
+	],
+	"ts-node": {
+		"esm": true
+	},
+	"$schema": "https://json.schemastore.org/tsconfig"
+}
